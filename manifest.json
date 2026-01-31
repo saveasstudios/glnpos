@@ -7,16 +7,23 @@
   "theme_color": "#137a1c",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "Greenlake Naturals TM Logo 192.jpg",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512.png",
+      "src": "Greenlake Naturals TM Logo.jpg",
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
+ ],
+  "screenshots": [
+    {
+      "src": "screenshot1.jpeg",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+  ]
   "id": "1",
   "description": "Greenlake Naturals is an organic cosmetic shop offering safe, natural products for healthy skin, hair, beauty."
 }
